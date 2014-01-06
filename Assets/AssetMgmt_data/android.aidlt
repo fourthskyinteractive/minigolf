@@ -1,21 +1,12 @@
-fonts/fixedsys50_00.dds#android-default	AssetMgmt_data/transformed/fixedsys50_00f0gp3t9hwv5qm.rgba	sRGB=false
-fonts/fixedsys50_00.dds#android-pvr	AssetMgmt_data/transformed/fixedsys50_00f0gp3t9hwv5qm.rgba	sRGB=false
-fonts/fixedsys50_01.dds#android-default	AssetMgmt_data/transformed/fixedsys50_011c8yvjthwv5qm.rgba	sRGB=false
-fonts/fixedsys50_01.dds#android-pvr	AssetMgmt_data/transformed/fixedsys50_011c8yvjthwv5qm.rgba	sRGB=false
-fonts/fixedsys50_02.dds#android-default	AssetMgmt_data/transformed/fixedsys50_020b00fwphwv5qm.rgba	sRGB=false
-fonts/fixedsys50_02.dds#android-pvr	AssetMgmt_data/transformed/fixedsys50_020b00fwphwv5qm.rgba	sRGB=false
-fonts/fixedsys80_00.dds#android-default	AssetMgmt_data/transformed/fixedsys80_00561d9cthwv5qm.rgba	sRGB=false
-fonts/fixedsys80_00.dds#android-pvr	AssetMgmt_data/transformed/fixedsys80_00561d9cthwv5qm.rgba	sRGB=false
-fonts/fixedsys80_01.dds#android-default	AssetMgmt_data/transformed/fixedsys80_019hb5j#yhwv5qm.rgba	sRGB=false
-fonts/fixedsys80_01.dds#android-pvr	AssetMgmt_data/transformed/fixedsys80_019hb5j#yhwv5qm.rgba	sRGB=false
-fonts/fixedsys80_02.dds#android-default	AssetMgmt_data/transformed/fixedsys80_0234yd649hwv5qm.rgba	sRGB=false
-fonts/fixedsys80_02.dds#android-pvr	AssetMgmt_data/transformed/fixedsys80_0234yd649hwv5qm.rgba	sRGB=false
-fonts/fixedsys80_03.dds#android-default	AssetMgmt_data/transformed/fixedsys80_038sz65k9hwv5qm.rgba	sRGB=false
-fonts/fixedsys80_03.dds#android-pvr	AssetMgmt_data/transformed/fixedsys80_038sz65k9hwv5qm.rgba	sRGB=false
-fonts/fixedsys80_04.dds#android-default	AssetMgmt_data/transformed/fixedsys80_043lpx2xkhwv5qm.rgba	sRGB=false
-fonts/fixedsys80_04.dds#android-pvr	AssetMgmt_data/transformed/fixedsys80_043lpx2xkhwv5qm.rgba	sRGB=false
-fonts/fixedsys80_05.dds#android-default	AssetMgmt_data/transformed/fixedsys80_05dhtpjkkhwv5qm.rgba	sRGB=false
-fonts/fixedsys80_05.dds#android-pvr	AssetMgmt_data/transformed/fixedsys80_05dhtpjkkhwv5qm.rgba	sRGB=false
+fonts/fixedsys50_00.dds	Fonts/fixedsys50_00.dds	sRGB=false
+fonts/fixedsys50_01.dds	Fonts/fixedsys50_01.dds	sRGB=false
+fonts/fixedsys50_02.dds	Fonts/fixedsys50_02.dds	sRGB=false
+fonts/fixedsys80_00.dds	Fonts/fixedsys80_00.dds	sRGB=false
+fonts/fixedsys80_01.dds	Fonts/fixedsys80_01.dds	sRGB=false
+fonts/fixedsys80_02.dds	Fonts/fixedsys80_02.dds	sRGB=false
+fonts/fixedsys80_03.dds	Fonts/fixedsys80_03.dds	sRGB=false
+fonts/fixedsys80_04.dds	Fonts/fixedsys80_04.dds	sRGB=false
+fonts/fixedsys80_05.dds	Fonts/fixedsys80_05.dds	sRGB=false
 meshes/cloudgeo.vcolmesh	Meshes/cloudGeo.vcolmesh	
 meshes/cloudgeo.vmesh	Meshes/cloudGeo.vmesh	LODSwitchDistances=
 meshes/proxy_holeadvanced.vcolmesh	Meshes/Proxy_HoleAdvanced.vcolmesh	
@@ -119,7 +110,8 @@ textures/icon_arrowleft.tga#android-default	AssetMgmt_data/transformed/icon_arro
 textures/icon_arrowleft.tga#android-pvr	AssetMgmt_data/transformed/icon_arrowleft6vs2130clgdtc.pvr	sRGB=false
 textures/icon_arrowright.tga#android-default	AssetMgmt_data/transformed/icon_arrowright6syd8cxclgdtc.rgba	sRGB=false
 textures/icon_arrowright.tga#android-pvr	AssetMgmt_data/transformed/icon_arrowright6syd8cxclgdtc.pvr	sRGB=false
-textures/icon_zoomout.tga	Textures/icon_zoomOut.tga	sRGB=false
+textures/icon_zoomout.tga#android-default	AssetMgmt_data/transformed/icon_zoomout97qf4w7dyfk92.rgba	sRGB=false
+textures/icon_zoomout.tga#android-pvr	AssetMgmt_data/transformed/icon_zoomout97qf4w7dyfk92.pvr	sRGB=false
 textures/skybox_bottom.tga#android-default	AssetMgmt_data/transformed/skybox_bottom6l8kts0clgdtc.etc	sRGB=false
 textures/skybox_bottom.tga#android-pvr	AssetMgmt_data/transformed/skybox_bottom6l8kts0clgdtc.pvr	sRGB=false
 textures/skybox_side1.tga#android-default	AssetMgmt_data/transformed/skybox_side1cv#p5k8clgdtc.etc	sRGB=false

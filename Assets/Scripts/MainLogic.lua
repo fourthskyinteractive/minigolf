@@ -37,7 +37,13 @@ function OnAfterSceneLoaded(self)
 	self.resetBallTime = .5
 	self.resetBallTimeLeft = .5
 	self.toggleTrail = "start"
-	self.FontPath = "Fonts/fixedsys80"
+	
+	-- setup for font size based on screen width
+	if w > 810 then
+		self.FontPath = "Fonts/fixedsys80"
+	else
+		self.FontPath = "Fonts/fixedsys50"
+	end
 	
     if G.isWindows then
 		self.clicks:MapTrigger("X", "MOUSE", "CT_MOUSE_ABS_X")
