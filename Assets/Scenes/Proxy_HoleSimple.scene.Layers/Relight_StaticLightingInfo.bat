@@ -1,0 +1,1 @@
+vLux.exe "" -project "C:\Projects\miniGolf" -tempfolder "C:\Projects\miniGolf\Scenes\Proxy_HoleSimple.scene.Layers" -out "Scenes\Proxy_HoleSimple" -quiet -minimized -config "C:\Projects\miniGolf\Scenes\Proxy_HoleSimple.scene.Layers\lighting.cfg"

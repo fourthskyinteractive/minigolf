@@ -1,0 +1,167 @@
+<root>
+    <particlelayer>
+        <description name="waterSplash" description="GlowBall" />
+        <defaultemitter type="sphere" radius="10" emitfromsurface="FALSE">
+            <startupfillpercentage average="0" variation="0" />
+            <fixparticlecount average="50" variation="0" />
+            <frequency average="2000" variation="0.4" />
+            <countlookup time="0.0001" randomofs="FALSE">
+                <curve numpoints="15">
+                    <point pos="0,0.9961" t_in="0,0.001" t_out="0.0448,-0.001" />
+                    <point pos="0.08,0.99" t_in="-0.0235,0.01" t_out="0.0235,-0.0255" />
+                    <point pos="0.1467,0.8367" t_in="-0.0288,0.0197" t_out="0.0288,-0.0197" />
+                    <point pos="0.26,0.8667" t_in="-0.0331,0.0272" t_out="0.0331,-0.0272" />
+                    <point pos="0.3533,0.6667" t_in="-0.0256,-0.0053" t_out="0.0256,0.0053" />
+                    <point pos="0.42,0.9" t_in="-0.024,-0.0107" t_out="0.024,0.0107" />
+                    <point pos="0.5033,0.7333" t_in="-0.0216,-0.011" t_out="0.0216,0.011" />
+                    <point pos="0.5547,0.9688" t_in="-0.0229,-0.0235" t_out="0.0229,0.0235" />
+                    <point pos="0.6467,0.88" t_in="-0.0238,0.0467" t_out="0.0238,-0.0467" />
+                    <point pos="0.7033,0.6767" t_in="-0.0192,-0.0101" t_out="0.0192,0.0101" />
+                    <point pos="0.7667,0.9433" t_in="-0.0203,-0.0325" t_out="0.0203,0.0325" />
+                    <point pos="0.83,0.88" t_in="-0.0144,0.0416" t_out="0.0144,-0.0416" />
+                    <point pos="0.8567,0.6833" t_in="-0.0117,0.0085" t_out="0.0117,-0.0085" />
+                    <point pos="0.9033,0.8267" t_in="-0.0229,-0.05" t_out="0.0229,0.05" />
+                    <point pos="1,0.9961" t_in="-0.0475,-0.0271" t_out="0,0.0039" />
+                </curve>
+            </countlookup>
+            <direction coneangle="0,-1" conemode="alldims" />
+        </defaultemitter>
+        <group topology="Billboards" trailoverlap="1" localspace="FALSE" localpos="0,0,0" localori="0,0,0" tcurvetime="1" tcurveradius="1" usetcurve="FALSE">
+            <groupsorting sortkey="0" />
+            <lifetime average="-1" variation="0" />
+            <timescale average="1" variation="0" />
+            <delay average="0" variation="0" />
+            <texture filename="..\Textures\fx\triMask.tga" normalmap="" transparency="3" sizeaspect="1" animationsubdiv="2,2" usedframes="4" center="0.5,0.5" />
+            <lighting modcolor="105,194,247,200" applyscenebrightness="0" />
+            <geometry />
+            <visibility boundingbox="-100,-100,-100,100,100,100" dynamicInflateInterval="1" depthofs="0" softparticles="FALSE" alwaysinforeground="FALSE" handlewhenvisible="FALSE" filtermask="-1" fadeMode="none" fadeStart="1000" fadeEnd="2000" renderorder="particles" />
+        </group>
+        <particles>
+            <particlesorting enabled="FALSE" />
+            <lifetime average="1" variation="0.2" />
+            <color>
+                <colorcurve>
+                    <curve_red numpoints="2">
+                        <point pos="0,1" t_in="0,0" t_out="0,0" />
+                        <point pos="1,1" t_in="0,0" t_out="0,0" />
+                    </curve_red>
+                    <curve_green numpoints="2">
+                        <point pos="0,1" t_in="0,0" t_out="0,0" />
+                        <point pos="1,1" t_in="0,0" t_out="0,0" />
+                    </curve_green>
+                    <curve_blue numpoints="2">
+                        <point pos="0,1" t_in="0,0" t_out="0,0" />
+                        <point pos="1,1" t_in="0,0" t_out="0,0" />
+                    </curve_blue>
+                    <curve_alpha numpoints="3">
+                        <point pos="0,0.591772" t_in="0,-0" t_out="0.192,0" />
+                        <point pos="0.639932,0.357595" t_in="-0.16,0.159474" t_out="0.16,-0.159474" />
+                        <point pos="1,0" t_in="-0.192,-0" t_out="0,0" />
+                    </curve_alpha>
+                </colorcurve>
+            </color>
+            <distortion enabled="FALSE" planealigned="TRUE">
+                <fixlength average="-1" variation="0" />
+                <speedmultiplier average="-1" variation="0" />
+                <sizemode enabled="FALSE" sizemultiplier="0,0,0,0" />
+            </distortion>
+            <normal enabled="FALSE" dir="0,0,1,1" />
+            <size>
+                <curve numpoints="3">
+                    <point pos="0,0.996711" t_in="0,0" t_out="0,0" />
+                    <point pos="0.657277,0.652757" t_in="-0.16,0.159474" t_out="0.16,-0.159474" />
+                    <point pos="1,0" t_in="0,0" t_out="0,0" />
+                </curve>
+                <start average="1" variation="0" />
+                <growth average="5" variation="0.4" />
+            </size>
+            <animation mode="0" startrandomframe="TRUE" smooth="FALSE">
+                <curve numpoints="2">
+                    <point pos="0,0.0039" t_in="0,0" t_out="0.5,0" />
+                    <point pos="1,0.9961" t_in="-0.5,0" t_out="0,0" />
+                </curve>
+                <animtime average="0" variation="0" />
+            </animation>
+            <speed average="50" variation="0" />
+            <rotation mode="constspeed" initialangle="0,360" rotationspeed="-20,20" curveduration="0" randomcurveofs="FALSE" />
+            <physics gravity="0,0,20" friction="0" emitterspeed="0" constraintbitmask="-1" gravityinertia="FALSE">
+                <inertia average="0" variation="0" />
+            </physics>
+            <ondestroy repeat="FALSE">
+                <newparticlecount average="-1" variation="0" />
+                <newparticletype copyflags="1" />
+            </ondestroy>
+        </particles>
+    </particlelayer>
+    <particlelayer>
+        <description name="waterWave" />
+        <defaultemitter type="point" emitfromsurface="FALSE">
+            <startupfillpercentage average="0" variation="0" />
+            <fixparticlecount average="1" variation="0" />
+            <frequency average="1000" variation="0" />
+            <countlookup time="0.01" randomofs="FALSE" />
+            <direction coneangle="0,-1" conemode="alldims" />
+        </defaultemitter>
+        <group topology="RingWave" trailoverlap="1" localspace="FALSE" localpos="0,0,0" localori="0,0,0" tcurvetime="0" tcurveradius="50" usetcurve="FALSE">
+            <groupsorting sortkey="0" />
+            <lifetime average="-1" variation="0" />
+            <timescale average="1" variation="0" />
+            <delay average="0" variation="0" />
+            <texture filename="HaloRing_06.dds" normalmap="" transparency="3" sizeaspect="1" animationsubdiv="1,1" usedframes="1" center="0.5,0.5" />
+            <lighting modcolor="139,139,139,100" applyscenebrightness="0" />
+            <geometry />
+            <visibility boundingbox="-100,-100,-100,100,100,100" dynamicInflateInterval="1" depthofs="0" softparticles="FALSE" alwaysinforeground="FALSE" handlewhenvisible="FALSE" filtermask="-1" fadeMode="none" fadeStart="8000" fadeEnd="10000" renderorder="particles" />
+        </group>
+        <particles>
+            <particlesorting enabled="FALSE" />
+            <lifetime average="1.25" variation="0" />
+            <color>
+                <colorcurve>
+                    <curve_red numpoints="2">
+                        <point pos="0,0.9979" t_in="0,-0" t_out="0.192,0" />
+                        <point pos="1,0.9979" t_in="-0.192,-0" t_out="0,0" />
+                    </curve_red>
+                    <curve_green numpoints="2">
+                        <point pos="0,0.9979" t_in="0,-0" t_out="0.192,0" />
+                        <point pos="1,0.9979" t_in="-0.192,-0" t_out="0,0" />
+                    </curve_green>
+                    <curve_blue numpoints="2">
+                        <point pos="0,0.9979" t_in="0,-0" t_out="0.192,0" />
+                        <point pos="1,0.9979" t_in="-0.192,-0" t_out="0,0" />
+                    </curve_blue>
+                    <curve_alpha numpoints="3">
+                        <point pos="0,0.0047" t_in="0,-0" t_out="0.192,0" />
+                        <point pos="0.5041,0.9976" t_in="-0.16,0" t_out="0.16,-0.0004" />
+                        <point pos="1,0.0024" t_in="-0.192,-0" t_out="0,0" />
+                    </curve_alpha>
+                </colorcurve>
+            </color>
+            <distortion enabled="TRUE" planealigned="FALSE">
+                <fixlength average="-1" variation="0.5" />
+                <speedmultiplier average="-1" variation="0.5" />
+                <sizemode enabled="TRUE" sizemultiplier="1,0,0,-0.5" />
+            </distortion>
+            <normal enabled="TRUE" dir="0,0,1,1" />
+            <size>
+                <curve numpoints="2">
+                    <point pos="0,0.1267" t_in="0,-0" t_out="0.192,0" />
+                    <point pos="1,0.9967" t_in="-0.192,-0" t_out="0,0" />
+                </curve>
+                <start average="1" variation="0" />
+                <growth average="100" variation="0.5" />
+            </size>
+            <animation mode="0" startrandomframe="FALSE" smooth="FALSE">
+                <animtime average="3" variation="0.5" />
+            </animation>
+            <speed average="0" variation="0" />
+            <rotation mode="none" initialangle="0,0" rotationspeed="0,0" curveduration="0" randomcurveofs="FALSE" />
+            <physics gravity="0,0,0" friction="0" emitterspeed="0" constraintbitmask="-1" gravityinertia="FALSE">
+                <inertia average="0" variation="0" />
+            </physics>
+            <ondestroy repeat="FALSE">
+                <newparticlecount average="-1" variation="0" />
+                <newparticletype copyflags="1" />
+            </ondestroy>
+        </particles>
+    </particlelayer>
+</root>

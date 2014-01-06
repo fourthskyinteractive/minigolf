@@ -1,0 +1,128 @@
+fonts/fixedsys50_00.dds#android-default	AssetMgmt_data/transformed/fixedsys50_00f0gp3t9hwv5qm.rgba	sRGB=false
+fonts/fixedsys50_00.dds#android-pvr	AssetMgmt_data/transformed/fixedsys50_00f0gp3t9hwv5qm.rgba	sRGB=false
+fonts/fixedsys50_01.dds#android-default	AssetMgmt_data/transformed/fixedsys50_011c8yvjthwv5qm.rgba	sRGB=false
+fonts/fixedsys50_01.dds#android-pvr	AssetMgmt_data/transformed/fixedsys50_011c8yvjthwv5qm.rgba	sRGB=false
+fonts/fixedsys50_02.dds#android-default	AssetMgmt_data/transformed/fixedsys50_020b00fwphwv5qm.rgba	sRGB=false
+fonts/fixedsys50_02.dds#android-pvr	AssetMgmt_data/transformed/fixedsys50_020b00fwphwv5qm.rgba	sRGB=false
+fonts/fixedsys80_00.dds#android-default	AssetMgmt_data/transformed/fixedsys80_00561d9cthwv5qm.rgba	sRGB=false
+fonts/fixedsys80_00.dds#android-pvr	AssetMgmt_data/transformed/fixedsys80_00561d9cthwv5qm.rgba	sRGB=false
+fonts/fixedsys80_01.dds#android-default	AssetMgmt_data/transformed/fixedsys80_019hb5j#yhwv5qm.rgba	sRGB=false
+fonts/fixedsys80_01.dds#android-pvr	AssetMgmt_data/transformed/fixedsys80_019hb5j#yhwv5qm.rgba	sRGB=false
+fonts/fixedsys80_02.dds#android-default	AssetMgmt_data/transformed/fixedsys80_0234yd649hwv5qm.rgba	sRGB=false
+fonts/fixedsys80_02.dds#android-pvr	AssetMgmt_data/transformed/fixedsys80_0234yd649hwv5qm.rgba	sRGB=false
+fonts/fixedsys80_03.dds#android-default	AssetMgmt_data/transformed/fixedsys80_038sz65k9hwv5qm.rgba	sRGB=false
+fonts/fixedsys80_03.dds#android-pvr	AssetMgmt_data/transformed/fixedsys80_038sz65k9hwv5qm.rgba	sRGB=false
+fonts/fixedsys80_04.dds#android-default	AssetMgmt_data/transformed/fixedsys80_043lpx2xkhwv5qm.rgba	sRGB=false
+fonts/fixedsys80_04.dds#android-pvr	AssetMgmt_data/transformed/fixedsys80_043lpx2xkhwv5qm.rgba	sRGB=false
+fonts/fixedsys80_05.dds#android-default	AssetMgmt_data/transformed/fixedsys80_05dhtpjkkhwv5qm.rgba	sRGB=false
+fonts/fixedsys80_05.dds#android-pvr	AssetMgmt_data/transformed/fixedsys80_05dhtpjkkhwv5qm.rgba	sRGB=false
+meshes/cloudgeo.vcolmesh	Meshes/cloudGeo.vcolmesh	
+meshes/cloudgeo.vmesh	Meshes/cloudGeo.vmesh	LODSwitchDistances=
+meshes/proxy_holeadvanced.vcolmesh	Meshes/Proxy_HoleAdvanced.vcolmesh	
+meshes/proxy_holeadvanced.vmesh	Meshes/Proxy_HoleAdvanced.vmesh	LODSwitchDistances=
+meshes/proxy_holeadvancedwindmill.vcolmesh	Meshes/Proxy_HoleAdvancedWindMill.vcolmesh	
+meshes/proxy_holeadvancedwindmill.vmesh	Meshes/Proxy_HoleAdvancedWindMill.vmesh	LODSwitchDistances=
+meshes/proxy_holesimple.vcolmesh	Meshes/Proxy_HoleSimple.vcolmesh	
+meshes/proxy_holesimple.vmesh	Meshes/Proxy_HoleSimple.vmesh	LODSwitchDistances=
+models/proxy_ball.anim	Models/Proxy_ball.anim	
+models/proxy_ball.model	Models/Proxy_ball.model	LODSwitchDistances=
+models/proxy_ball.vcolmesh	Models/Proxy_ball.vcolmesh	
+models/watermill.anim	Models/waterMill.anim	
+models/watermill.model	Models/waterMill.model	LODSwitchDistances=
+models/watermill.vcolmesh	Models/waterMill.vcolmesh	
+models/watermillblade.anim	Models/waterMillBlade.anim	
+models/watermillblade.model	Models/waterMillBlade.model	LODSwitchDistances=
+models/watermillblade.vcolmesh	Models/waterMillBlade.vcolmesh	
+models/watermillrotor.anim	Models/waterMillRotor.anim	
+models/watermillrotor.model	Models/waterMillRotor.model	LODSwitchDistances=
+models/watermillrotor.vcolmesh	Models/waterMillRotor.vcolmesh	
+particles/blastwave.dds#android-default	AssetMgmt_data/transformed/blastwave41r24b8clgdtc.rgba	sRGB=false
+particles/blastwave.dds#android-pvr	AssetMgmt_data/transformed/blastwave41r24b8clgdtc.pvr	sRGB=false
+particles/effect_cone.model	Particles/Effect_Cone.model	LODSwitchDistances=
+particles/flare_1.dds#android-default	AssetMgmt_data/transformed/flare_1gqjshl4clgdtc.rgba	sRGB=false
+particles/flare_1.dds#android-pvr	AssetMgmt_data/transformed/flare_1gqjshl4clgdtc.pvr	sRGB=false
+particles/flaregroup.dds#android-default	AssetMgmt_data/transformed/flaregrouph6sg7zjclgdtc.rgba	sRGB=false
+particles/flaregroup.dds#android-pvr	AssetMgmt_data/transformed/flaregrouph6sg7zjclgdtc.pvr	sRGB=false
+particles/fog_group.dds#android-default	AssetMgmt_data/transformed/fog_grouph48r7x4clgdtc.rgba	sRGB=false
+particles/fog_group.dds#android-pvr	AssetMgmt_data/transformed/fog_grouph48r7x4clgdtc.pvr	sRGB=false
+particles/graylookuptable.dds#android-default	AssetMgmt_data/transformed/graylookuptableh5zhzs4clgdtc.rgba	sRGB=false
+particles/graylookuptable.dds#android-pvr	AssetMgmt_data/transformed/graylookuptableh5zhzs4clgdtc.pvr	sRGB=false
+particles/haloring_06.dds#android-default	AssetMgmt_data/transformed/haloring_068qw9tc4clgdtc.rgba	sRGB=false
+particles/haloring_06.dds#android-pvr	AssetMgmt_data/transformed/haloring_068qw9tc4clgdtc.pvr	sRGB=false
+particles/light.dds#android-default	AssetMgmt_data/transformed/lighthkx#rrxclgdtc.rgba	sRGB=false
+particles/light.dds#android-pvr	AssetMgmt_data/transformed/lighthkx#rrxclgdtc.pvr	sRGB=false
+particles/smoke.dds#android-default	AssetMgmt_data/transformed/smoke9hkp3rjclgdtc.rgba	sRGB=false
+particles/smoke.dds#android-pvr	AssetMgmt_data/transformed/smoke9hkp3rjclgdtc.pvr	sRGB=false
+particles/splash_group.dds#android-default	AssetMgmt_data/transformed/splash_group574n9cxclgdtc.rgba	sRGB=false
+particles/splash_group.dds#android-pvr	AssetMgmt_data/transformed/splash_group574n9cxclgdtc.pvr	sRGB=false
+particles/texturetrail.dds#android-default	AssetMgmt_data/transformed/texturetrail0k0bxdnclgdtc.rgba	sRGB=false
+particles/texturetrail.dds#android-pvr	AssetMgmt_data/transformed/texturetrail0k0bxdnclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p01.dds#android-default	AssetMgmt_data/transformed/proxy_holeadvanced_p019dnhdf4clgdtc.etc	sRGB=false
+scenes/proxy_holeadvanced_p01.dds#android-pvr	AssetMgmt_data/transformed/proxy_holeadvanced_p019dnhdf4clgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p02.dds#android-default	AssetMgmt_data/transformed/proxy_holeadvanced_p022r88kkdclgdtc.etc	sRGB=false
+scenes/proxy_holeadvanced_p02.dds#android-pvr	AssetMgmt_data/transformed/proxy_holeadvanced_p022r88kkdclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p03.dds#android-default	AssetMgmt_data/transformed/proxy_holeadvanced_p0349#hp#0clgdtc.etc	sRGB=false
+scenes/proxy_holeadvanced_p03.dds#android-pvr	AssetMgmt_data/transformed/proxy_holeadvanced_p0349#hp#0clgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p04.dds#android-default	AssetMgmt_data/transformed/proxy_holeadvanced_p0476k#jt0clgdtc.etc	sRGB=false
+scenes/proxy_holeadvanced_p04.dds#android-pvr	AssetMgmt_data/transformed/proxy_holeadvanced_p0476k#jt0clgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p05.dds#android-default	AssetMgmt_data/transformed/proxy_holeadvanced_p0573sn8s0clgdtc.etc	sRGB=false
+scenes/proxy_holeadvanced_p05.dds#android-pvr	AssetMgmt_data/transformed/proxy_holeadvanced_p0573sn8s0clgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p06.dds#android-default	AssetMgmt_data/transformed/proxy_holeadvanced_p066j2hvlnclgdtc.etc	sRGB=false
+scenes/proxy_holeadvanced_p06.dds#android-pvr	AssetMgmt_data/transformed/proxy_holeadvanced_p066j2hvlnclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p07.dds#android-default	AssetMgmt_data/transformed/proxy_holeadvanced_p077qctvpnclgdtc.etc	sRGB=false
+scenes/proxy_holeadvanced_p07.dds#android-pvr	AssetMgmt_data/transformed/proxy_holeadvanced_p077qctvpnclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p08.dds#android-default	AssetMgmt_data/transformed/proxy_holeadvanced_p083#c95fnclgdtc.etc	sRGB=false
+scenes/proxy_holeadvanced_p08.dds#android-pvr	AssetMgmt_data/transformed/proxy_holeadvanced_p083#c95fnclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p09.dds#android-default	AssetMgmt_data/transformed/proxy_holeadvanced_p096plhgnjclgdtc.etc	sRGB=false
+scenes/proxy_holeadvanced_p09.dds#android-pvr	AssetMgmt_data/transformed/proxy_holeadvanced_p096plhgnjclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p10.dds#android-default	AssetMgmt_data/transformed/proxy_holeadvanced_p105k9#8zsclgdtc.etc	sRGB=false
+scenes/proxy_holeadvanced_p10.dds#android-pvr	AssetMgmt_data/transformed/proxy_holeadvanced_p105k9#8zsclgdtc.pvr	sRGB=false
+scenes/proxy_holesimple_p01.dds#android-default	AssetMgmt_data/transformed/proxy_holesimple_p01fyhy9ddclgdtc.etc	sRGB=false
+scenes/proxy_holesimple_p01.dds#android-pvr	AssetMgmt_data/transformed/proxy_holesimple_p01fyhy9ddclgdtc.pvr	sRGB=false
+scenes/proxy_holesimple_p02.dds#android-default	AssetMgmt_data/transformed/proxy_holesimple_p02771t55jclgdtc.etc	sRGB=false
+scenes/proxy_holesimple_p02.dds#android-pvr	AssetMgmt_data/transformed/proxy_holesimple_p02771t55jclgdtc.pvr	sRGB=false
+scenes/proxy_holesimple_p03.dds#android-default	AssetMgmt_data/transformed/proxy_holesimple_p032mvvb8sclgdtc.etc	sRGB=false
+scenes/proxy_holesimple_p03.dds#android-pvr	AssetMgmt_data/transformed/proxy_holesimple_p032mvvb8sclgdtc.pvr	sRGB=false
+source/noisemap01.tga#android-default	AssetMgmt_data/transformed/noisemap017#67smjclgdtc.etc	sRGB=false
+source/noisemap01.tga#android-pvr	AssetMgmt_data/transformed/noisemap017#67smjclgdtc.pvr	sRGB=false
+textures/baseblue.tga#android-default	AssetMgmt_data/transformed/basebluegv4nns8clgdtc.etc	sRGB=false
+textures/baseblue.tga#android-pvr	AssetMgmt_data/transformed/basebluegv4nns8clgdtc.pvr	sRGB=false
+textures/basebrown.tga#android-default	AssetMgmt_data/transformed/basebrown9z2dmz8clgdtc.etc	sRGB=false
+textures/basebrown.tga#android-pvr	AssetMgmt_data/transformed/basebrown9z2dmz8clgdtc.pvr	sRGB=false
+textures/basecliff.tga#android-default	AssetMgmt_data/transformed/basecliff426bv28clgdtc.etc	sRGB=false
+textures/basecliff.tga#android-pvr	AssetMgmt_data/transformed/basecliff426bv28clgdtc.pvr	sRGB=false
+textures/baseclouds.tga#android-default	AssetMgmt_data/transformed/baseclouds6fs#tj8clgdtc.etc	sRGB=false
+textures/baseclouds.tga#android-pvr	AssetMgmt_data/transformed/baseclouds6fs#tj8clgdtc.pvr	sRGB=false
+textures/basedarkgrey.tga#android-default	AssetMgmt_data/transformed/basedarkgrey65hx8#4clgdtc.etc	sRGB=false
+textures/basedarkgrey.tga#android-pvr	AssetMgmt_data/transformed/basedarkgrey65hx8#4clgdtc.pvr	sRGB=false
+textures/basegreen.tga#android-default	AssetMgmt_data/transformed/basegreen30xq91nclgdtc.etc	sRGB=false
+textures/basegreen.tga#android-pvr	AssetMgmt_data/transformed/basegreen30xq91nclgdtc.pvr	sRGB=false
+textures/basegrey.tga#android-default	AssetMgmt_data/transformed/basegrey3qc55bxclgdtc.etc	sRGB=false
+textures/basegrey.tga#android-pvr	AssetMgmt_data/transformed/basegrey3qc55bxclgdtc.pvr	sRGB=false
+textures/basered.tga#android-default	AssetMgmt_data/transformed/basered4003znnclgdtc.etc	sRGB=false
+textures/basered.tga#android-pvr	AssetMgmt_data/transformed/basered4003znnclgdtc.pvr	sRGB=false
+textures/baseturf.tga#android-default	AssetMgmt_data/transformed/baseturf9#m7wzxclgdtc.etc	sRGB=false
+textures/baseturf.tga#android-pvr	AssetMgmt_data/transformed/baseturf9#m7wzxclgdtc.pvr	sRGB=false
+textures/basewhite.tga#android-default	AssetMgmt_data/transformed/basewhite0pff3kdclgdtc.etc	sRGB=false
+textures/basewhite.tga#android-pvr	AssetMgmt_data/transformed/basewhite0pff3kdclgdtc.pvr	sRGB=false
+textures/basewindmill.tga#android-default	AssetMgmt_data/transformed/basewindmill6g2zl9nclgdtc.etc	sRGB=false
+textures/basewindmill.tga#android-pvr	AssetMgmt_data/transformed/basewindmill6g2zl9nclgdtc.pvr	sRGB=false
+textures/darkbrown.tga#android-default	AssetMgmt_data/transformed/darkbrown7jyz994clgdtc.etc	sRGB=false
+textures/darkbrown.tga#android-pvr	AssetMgmt_data/transformed/darkbrown7jyz994clgdtc.pvr	sRGB=false
+textures/fx/arrowmask.tga#android-default	AssetMgmt_data/transformed/arrowmaskffcxm#sclgdtc.etc	sRGB=false
+textures/fx/arrowmask.tga#android-pvr	AssetMgmt_data/transformed/arrowmaskffcxm#sclgdtc.pvr	sRGB=false
+textures/fx/trimask.tga#android-default	AssetMgmt_data/transformed/trimask97pznhxclgdtc.etc	sRGB=false
+textures/fx/trimask.tga#android-pvr	AssetMgmt_data/transformed/trimask97pznhxclgdtc.pvr	sRGB=false
+textures/golfball_diff.tga#android-default	AssetMgmt_data/transformed/golfball_diff6g67hy0clgdtc.etc	sRGB=false
+textures/golfball_diff.tga#android-pvr	AssetMgmt_data/transformed/golfball_diff6g67hy0clgdtc.pvr	sRGB=false
+textures/icon_arrowleft.tga#android-default	AssetMgmt_data/transformed/icon_arrowleft6vs2130clgdtc.rgba	sRGB=false
+textures/icon_arrowleft.tga#android-pvr	AssetMgmt_data/transformed/icon_arrowleft6vs2130clgdtc.pvr	sRGB=false
+textures/icon_arrowright.tga#android-default	AssetMgmt_data/transformed/icon_arrowright6syd8cxclgdtc.rgba	sRGB=false
+textures/icon_arrowright.tga#android-pvr	AssetMgmt_data/transformed/icon_arrowright6syd8cxclgdtc.pvr	sRGB=false
+textures/icon_zoomout.tga	Textures/icon_zoomOut.tga	sRGB=false
+textures/skybox_bottom.tga#android-default	AssetMgmt_data/transformed/skybox_bottom6l8kts0clgdtc.etc	sRGB=false
+textures/skybox_bottom.tga#android-pvr	AssetMgmt_data/transformed/skybox_bottom6l8kts0clgdtc.pvr	sRGB=false
+textures/skybox_side1.tga#android-default	AssetMgmt_data/transformed/skybox_side1cv#p5k8clgdtc.etc	sRGB=false
+textures/skybox_side1.tga#android-pvr	AssetMgmt_data/transformed/skybox_side1cv#p5k8clgdtc.pvr	sRGB=false
+textures/skybox_top.tga#android-default	AssetMgmt_data/transformed/skybox_top5ynnjsnclgdtc.etc	sRGB=false
+textures/skybox_top.tga#android-pvr	AssetMgmt_data/transformed/skybox_top5ynnjsnclgdtc.pvr	sRGB=false

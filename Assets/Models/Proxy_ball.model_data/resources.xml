@@ -1,0 +1,9 @@
+<root>
+    <Resources Version="1" Count="5" PathType="Project">
+        <Resource Manager="Animations" Filename="Models/Proxy_ball.anim" Size="1024" />
+        <Resource Manager="FILE" Filename="Models/Proxy_ball.model_data\materials.xml" OwnerRes="4" Size="713" />
+        <Resource Manager="EffectLibs" Filename="Shaders\miniGolf.ShaderLib" Size="35944" />
+        <Resource Manager="Textures" Filename="Textures\golfBall_diff.tga" CustomInt="1,64" Size="174764" />
+        <Resource Manager="Static/Dynamic Meshes" Filename="Models/Proxy_ball.model" CustomInt="1,2" Size="56" />
+    </Resources>
+</root>

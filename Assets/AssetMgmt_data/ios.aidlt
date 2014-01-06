@@ -1,0 +1,66 @@
+fonts/fixedsys50_00.dds	AssetMgmt_data/transformed/fixedsys50_00f0gp3t8clgdtc.pvr	sRGB=false
+fonts/fixedsys50_01.dds	AssetMgmt_data/transformed/fixedsys50_011c8yvjsclgdtc.pvr	sRGB=false
+fonts/fixedsys50_02.dds	AssetMgmt_data/transformed/fixedsys50_020b00fwnclgdtc.pvr	sRGB=false
+fonts/fixedsys80_00.dds	AssetMgmt_data/transformed/fixedsys80_00561d9csclgdtc.pvr	sRGB=false
+fonts/fixedsys80_01.dds	AssetMgmt_data/transformed/fixedsys80_019hb5j#xclgdtc.pvr	sRGB=false
+fonts/fixedsys80_02.dds	AssetMgmt_data/transformed/fixedsys80_0234yd648clgdtc.pvr	sRGB=false
+fonts/fixedsys80_03.dds	AssetMgmt_data/transformed/fixedsys80_038sz65k8clgdtc.pvr	sRGB=false
+fonts/fixedsys80_04.dds	AssetMgmt_data/transformed/fixedsys80_043lpx2xjclgdtc.pvr	sRGB=false
+fonts/fixedsys80_05.dds	AssetMgmt_data/transformed/fixedsys80_05dhtpjkjclgdtc.pvr	sRGB=false
+meshes/cloudgeo.vcolmesh	Meshes/cloudGeo.vcolmesh	
+meshes/cloudgeo.vmesh	Meshes/cloudGeo.vmesh	LODSwitchDistances=
+meshes/proxy_holeadvanced.vcolmesh	Meshes/Proxy_HoleAdvanced.vcolmesh	
+meshes/proxy_holeadvanced.vmesh	Meshes/Proxy_HoleAdvanced.vmesh	LODSwitchDistances=
+meshes/proxy_holeadvancedwindmill.vcolmesh	Meshes/Proxy_HoleAdvancedWindMill.vcolmesh	
+meshes/proxy_holeadvancedwindmill.vmesh	Meshes/Proxy_HoleAdvancedWindMill.vmesh	LODSwitchDistances=
+meshes/proxy_holesimple.vcolmesh	Meshes/Proxy_HoleSimple.vcolmesh	
+meshes/proxy_holesimple.vmesh	Meshes/Proxy_HoleSimple.vmesh	LODSwitchDistances=
+models/proxy_ball.anim	Models/Proxy_ball.anim	
+models/proxy_ball.model	Models/Proxy_ball.model	LODSwitchDistances=
+models/proxy_ball.vcolmesh	Models/Proxy_ball.vcolmesh	
+models/watermill.anim	Models/waterMill.anim	
+models/watermill.model	Models/waterMill.model	LODSwitchDistances=
+models/watermill.vcolmesh	Models/waterMill.vcolmesh	
+models/watermillblade.anim	Models/waterMillBlade.anim	
+models/watermillblade.model	Models/waterMillBlade.model	LODSwitchDistances=
+models/watermillblade.vcolmesh	Models/waterMillBlade.vcolmesh	
+models/watermillrotor.anim	Models/waterMillRotor.anim	
+models/watermillrotor.model	Models/waterMillRotor.model	LODSwitchDistances=
+models/watermillrotor.vcolmesh	Models/waterMillRotor.vcolmesh	
+particles/effect_cone.model	Particles/Effect_Cone.model	LODSwitchDistances=
+particles/flaregroup.dds	AssetMgmt_data/transformed/flaregrouph6sg7zjclgdtc.pvr	sRGB=false
+particles/fog_group.dds	AssetMgmt_data/transformed/fog_grouph48r7x4clgdtc.pvr	sRGB=false
+particles/haloring_06.dds	AssetMgmt_data/transformed/haloring_068qw9tc4clgdtc.pvr	sRGB=false
+particles/light.dds	AssetMgmt_data/transformed/lighthkx#rrxclgdtc.pvr	sRGB=false
+particles/splash_group.dds	AssetMgmt_data/transformed/splash_group574n9cxclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p01.dds	AssetMgmt_data/transformed/proxy_holeadvanced_p012q742b0clgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p02.dds	AssetMgmt_data/transformed/proxy_holeadvanced_p028tcvkh4clgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p03.dds	AssetMgmt_data/transformed/proxy_holeadvanced_p0384hpq#xclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p04.dds	AssetMgmt_data/transformed/proxy_holeadvanced_p04gk5dj0nclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p05.dds	AssetMgmt_data/transformed/proxy_holeadvanced_p05ft0b8qdclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p06.dds	AssetMgmt_data/transformed/proxy_holeadvanced_p062hfqq4sclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p07.dds	AssetMgmt_data/transformed/proxy_holeadvanced_p074vmkc4xclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p08.dds	AssetMgmt_data/transformed/proxy_holeadvanced_p080dczcfnclgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p09.dds	AssetMgmt_data/transformed/proxy_holeadvanced_p09hf4ncn4clgdtc.pvr	sRGB=false
+scenes/proxy_holeadvanced_p10.dds	AssetMgmt_data/transformed/proxy_holeadvanced_p10dmxj1tjclgdtc.pvr	sRGB=false
+scenes/proxy_holesimple_p01.dds	AssetMgmt_data/transformed/proxy_holesimple_p01fyhy9ddclgdtc.pvr	sRGB=false
+scenes/proxy_holesimple_p02.dds	AssetMgmt_data/transformed/proxy_holesimple_p02771t55jclgdtc.pvr	sRGB=false
+scenes/proxy_holesimple_p03.dds	AssetMgmt_data/transformed/proxy_holesimple_p032mvvb8sclgdtc.pvr	sRGB=false
+source/noisemap01.tga	AssetMgmt_data/transformed/noisemap017#67smjclgdtc.pvr	sRGB=false
+textures/baseblue.tga	AssetMgmt_data/transformed/basebluegv4nns8clgdtc.pvr	sRGB=false
+textures/basebrown.tga	AssetMgmt_data/transformed/basebrown9z2dmz8clgdtc.pvr	sRGB=false
+textures/basecliff.tga	AssetMgmt_data/transformed/basecliff426bv28clgdtc.pvr	sRGB=false
+textures/baseclouds.tga	AssetMgmt_data/transformed/baseclouds6fs#tj8clgdtc.pvr	sRGB=false
+textures/basedarkgrey.tga	AssetMgmt_data/transformed/basedarkgrey65hx8#4clgdtc.pvr	sRGB=false
+textures/basegreen.tga	AssetMgmt_data/transformed/basegreen30xq91nclgdtc.pvr	sRGB=false
+textures/basegrey.tga	AssetMgmt_data/transformed/basegrey3qc55bxclgdtc.pvr	sRGB=false
+textures/basered.tga	AssetMgmt_data/transformed/basered4003znnclgdtc.pvr	sRGB=false
+textures/baseturf.tga	AssetMgmt_data/transformed/baseturf9#m7wzxclgdtc.pvr	sRGB=false
+textures/basewhite.tga	AssetMgmt_data/transformed/basewhite0pff3kdclgdtc.pvr	sRGB=false
+textures/basewindmill.tga	AssetMgmt_data/transformed/basewindmill6g2zl9nclgdtc.pvr	sRGB=false
+textures/darkbrown.tga	AssetMgmt_data/transformed/darkbrown7jyz994clgdtc.pvr	sRGB=false
+textures/fx/trimask.tga	AssetMgmt_data/transformed/trimask97pznhxclgdtc.pvr	sRGB=false
+textures/icon_zoomout.tga	AssetMgmt_data/transformed/icon_zoomout97qf4w4clgdtc.pvr	sRGB=false
+textures/skybox_bottom.tga	AssetMgmt_data/transformed/skybox_bottom6l8kts0clgdtc.pvr	sRGB=false
+textures/skybox_side1.tga	AssetMgmt_data/transformed/skybox_side1cv#p5k8clgdtc.pvr	sRGB=false
+textures/skybox_top.tga	AssetMgmt_data/transformed/skybox_top5ynnjsnclgdtc.pvr	sRGB=false

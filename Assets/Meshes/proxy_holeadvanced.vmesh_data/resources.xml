@@ -1,0 +1,16 @@
+<root>
+    <Resources Version="1" Count="12" PathType="Project">
+        <Resource Manager="FILE" Filename="Meshes/Proxy_HoleAdvanced.vmesh_data\materials.xml" OwnerRes="10" Size="3383" />
+        <Resource Manager="EffectLibs" Filename="Shaders\MobileShaders.ShaderLib" Size="3540544" />
+        <Resource Manager="Textures" Filename="Textures\baseBlue.tga" CustomInt="1,64" Size="5460" />
+        <Resource Manager="Textures" Filename="Textures\baseCliff.tga" CustomInt="1,64" Size="87380" />
+        <Resource Manager="Textures" Filename="Textures\baseClouds.tga" CustomInt="1,64" Size="5460" />
+        <Resource Manager="Textures" Filename="Textures\baseGrey.tga" CustomInt="1,64" Size="5460" />
+        <Resource Manager="Textures" Filename="Textures\baseRed.tga" CustomInt="1,64" Size="5460" />
+        <Resource Manager="Textures" Filename="Textures\baseTurf.tga" CustomInt="1,64" Size="87380" />
+        <Resource Manager="Textures" Filename="Textures\baseWhite.tga" CustomInt="1,64" Size="5460" />
+        <Resource Manager="Textures" Filename="Textures\darkBrown.tga" CustomInt="1,64" Size="5460" />
+        <Resource Manager="Static/Dynamic Meshes" Filename="Meshes/Proxy_HoleAdvanced.vmesh" CustomInt="1,1" Size="560" />
+        <Resource Manager="EffectLibs" Filename="Shaders\vMaterial.ShaderLib" Size="392352" />
+    </Resources>
+</root>

@@ -1,0 +1,14 @@
+<root>
+    <Resources Version="1" Count="10" PathType="Project">
+        <Resource Manager="FILE" Filename="Meshes/Proxy_HoleAdvancedWindMill.vmesh_data\materials.xml" OwnerRes="8" Size="2561" />
+        <Resource Manager="EffectLibs" Filename="Shaders\MobileShaders.ShaderLib" Size="3540544" />
+        <Resource Manager="Textures" Filename="Textures\baseBlue.tga" CustomInt="1,64" Size="5460" />
+        <Resource Manager="Textures" Filename="Textures\baseDarkGrey.tga" CustomInt="1,64" Size="5460" />
+        <Resource Manager="Textures" Filename="Textures\baseGrey.tga" CustomInt="1,64" Size="5460" />
+        <Resource Manager="Textures" Filename="Textures\baseRed.tga" CustomInt="1,64" Size="5460" />
+        <Resource Manager="Textures" Filename="Textures\baseWindMill.tga" CustomInt="1,64" Size="5460" />
+        <Resource Manager="Textures" Filename="Textures\darkBrown.tga" CustomInt="1,64" Size="5460" />
+        <Resource Manager="Static/Dynamic Meshes" Filename="Meshes/Proxy_HoleAdvancedWindMill.vmesh" CustomInt="1,1" Size="448" />
+        <Resource Manager="EffectLibs" Filename="Shaders\vMaterial.ShaderLib" Size="392352" />
+    </Resources>
+</root>
