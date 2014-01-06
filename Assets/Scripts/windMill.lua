@@ -1,5 +1,9 @@
+--[[
+Initializes the windmill animation.
+--]]
+
 function OnAfterSceneLoaded(self)
-	self.waterSpin = self:AddComponentOfType("VAnimationComponent")
-    self.waterSpin:Play("rotorSpin", true)
-	self.waterSpin:SetSpeed(-.05)
+	self.windSpin = self:AddComponentOfType("VAnimationComponent")
+    self.windSpin:Play("rotorSpin", true)
+	self.windSpin:SetSpeed(-.05)
 end
