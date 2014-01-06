@@ -1,0 +1,75 @@
+fonts/fixedsys50_00.dds	fonts/fixedsys50_00.dds	sRGB=false
+fonts/fixedsys50_01.dds	fonts/fixedsys50_01.dds	sRGB=false
+fonts/fixedsys50_02.dds	fonts/fixedsys50_02.dds	sRGB=false
+fonts/fixedsys80_00.dds	fonts/fixedsys80_00.dds	sRGB=false
+fonts/fixedsys80_01.dds	fonts/fixedsys80_01.dds	sRGB=false
+fonts/fixedsys80_02.dds	fonts/fixedsys80_02.dds	sRGB=false
+fonts/fixedsys80_03.dds	fonts/fixedsys80_03.dds	sRGB=false
+fonts/fixedsys80_04.dds	fonts/fixedsys80_04.dds	sRGB=false
+fonts/fixedsys80_05.dds	fonts/fixedsys80_05.dds	sRGB=false
+meshes/cloudgeo.vcolmesh	meshes/cloudgeo.vcolmesh	
+meshes/cloudgeo.vmesh	meshes/cloudgeo.vmesh	LODSwitchDistances=
+meshes/proxy_holeadvanced.vcolmesh	meshes/proxy_holeadvanced.vcolmesh	
+meshes/proxy_holeadvanced.vmesh	meshes/proxy_holeadvanced.vmesh	LODSwitchDistances=
+meshes/proxy_holeadvancedwindmill.vcolmesh	meshes/proxy_holeadvancedwindmill.vcolmesh	
+meshes/proxy_holeadvancedwindmill.vmesh	meshes/proxy_holeadvancedwindmill.vmesh	LODSwitchDistances=
+meshes/proxy_holesimple.vcolmesh	meshes/proxy_holesimple.vcolmesh	
+meshes/proxy_holesimple.vmesh	meshes/proxy_holesimple.vmesh	LODSwitchDistances=
+models/proxy_ball.anim	models/proxy_ball.anim	
+models/proxy_ball.model	models/proxy_ball.model	LODSwitchDistances=
+models/proxy_ball.vcolmesh	models/proxy_ball.vcolmesh	
+models/watermill.anim	models/watermill.anim	
+models/watermill.model	models/watermill.model	LODSwitchDistances=
+models/watermill.vcolmesh	models/watermill.vcolmesh	
+models/watermillblade.anim	models/watermillblade.anim	
+models/watermillblade.model	models/watermillblade.model	LODSwitchDistances=
+models/watermillblade.vcolmesh	models/watermillblade.vcolmesh	
+models/watermillrotor.anim	models/watermillrotor.anim	
+models/watermillrotor.model	models/watermillrotor.model	LODSwitchDistances=
+models/watermillrotor.vcolmesh	models/watermillrotor.vcolmesh	
+particles/blastwave.dds	particles/blastwave.dds	sRGB=false
+particles/effect_cone.model	particles/effect_cone.model	LODSwitchDistances=
+particles/flare_1.dds	particles/flare_1.dds	sRGB=false
+particles/flaregroup.dds	particles/flaregroup.dds	sRGB=false
+particles/fog_group.dds	particles/fog_group.dds	sRGB=false
+particles/graylookuptable.dds	particles/graylookuptable.dds	sRGB=false
+particles/haloring_06.dds	particles/haloring_06.dds	sRGB=false
+particles/light.dds	particles/light.dds	sRGB=false
+particles/smoke.dds	particles/smoke.dds	sRGB=false
+particles/splash_group.dds	particles/splash_group.dds	sRGB=false
+particles/texturetrail.dds	particles/texturetrail.dds	sRGB=false
+scenes/proxy_holeadvanced_p01.dds	scenes/proxy_holeadvanced_p01.dds	sRGB=false
+scenes/proxy_holeadvanced_p02.dds	scenes/proxy_holeadvanced_p02.dds	sRGB=false
+scenes/proxy_holeadvanced_p03.dds	scenes/proxy_holeadvanced_p03.dds	sRGB=false
+scenes/proxy_holeadvanced_p04.dds	scenes/proxy_holeadvanced_p04.dds	sRGB=false
+scenes/proxy_holeadvanced_p05.dds	scenes/proxy_holeadvanced_p05.dds	sRGB=false
+scenes/proxy_holeadvanced_p06.dds	scenes/proxy_holeadvanced_p06.dds	sRGB=false
+scenes/proxy_holeadvanced_p07.dds	scenes/proxy_holeadvanced_p07.dds	sRGB=false
+scenes/proxy_holeadvanced_p08.dds	scenes/proxy_holeadvanced_p08.dds	sRGB=false
+scenes/proxy_holeadvanced_p09.dds	scenes/proxy_holeadvanced_p09.dds	sRGB=false
+scenes/proxy_holeadvanced_p10.dds	scenes/proxy_holeadvanced_p10.dds	sRGB=false
+scenes/proxy_holesimple_p01.dds	scenes/proxy_holesimple_p01.dds	sRGB=false
+scenes/proxy_holesimple_p02.dds	scenes/proxy_holesimple_p02.dds	sRGB=false
+scenes/proxy_holesimple_p03.dds	scenes/proxy_holesimple_p03.dds	sRGB=false
+source/noisemap01.tga	source/noisemap01.tga	sRGB=false
+textures/baseblue.tga	textures/baseblue.tga	sRGB=false
+textures/basebrown.tga	textures/basebrown.tga	sRGB=false
+textures/basecliff.tga	textures/basecliff.tga	sRGB=false
+textures/baseclouds.tga	textures/baseclouds.tga	sRGB=false
+textures/basedarkgrey.tga	textures/basedarkgrey.tga	sRGB=false
+textures/basegreen.tga	textures/basegreen.tga	sRGB=false
+textures/basegrey.tga	textures/basegrey.tga	sRGB=false
+textures/basered.tga	textures/basered.tga	sRGB=false
+textures/baseturf.tga	textures/baseturf.tga	sRGB=false
+textures/basewhite.tga	textures/basewhite.tga	sRGB=false
+textures/basewindmill.tga	textures/basewindmill.tga	sRGB=false
+textures/darkbrown.tga	textures/darkbrown.tga	sRGB=false
+textures/fx/arrowmask.tga	textures/fx/arrowmask.tga	sRGB=false
+textures/fx/trimask.tga	textures/fx/trimask.tga	sRGB=false
+textures/golfball_diff.tga	textures/golfball_diff.tga	sRGB=false
+textures/icon_arrowleft.tga	textures/icon_arrowleft.tga	sRGB=false
+textures/icon_arrowright.tga	textures/icon_arrowright.tga	sRGB=false
+textures/icon_zoomout.tga	textures/icon_zoomout.tga	sRGB=false
+textures/skybox_bottom.tga	textures/skybox_bottom.tga	sRGB=false
+textures/skybox_side1.tga	textures/skybox_side1.tga	sRGB=false
+textures/skybox_top.tga	textures/skybox_top.tga	sRGB=false
