@@ -3,6 +3,17 @@ Handles the logic to control the golf ball. Attach this to the main
 ball entity.
 --]]
 
+--Setup tweak vars for easy editing
+function OnExpose(self)
+	self.par = 4
+	self.hitImpulse = 80
+	self.camCloseDist = 200
+	self.camOffsetYDist = 75
+	self.camFarDist = 1000
+	self.camOffsetYDistFar = 600
+	self.resetBallTime = .5
+end
+
 function OnAfterSceneLoaded(self)
 	Debug:Enable(true)
 
@@ -19,23 +30,15 @@ function OnAfterSceneLoaded(self)
 	G.strokes = 0
 	G.resetHole = false
 	G.reshoot = false
-	
-	self.hitImpulse = 80
 
 	self.ball = Game:GetEntity("ball")
 	self.ballPhysics = self.ball:GetComponentOfType("vHavokRigidBody")
 
 	self.clicks = Input:CreateMap("clickSpots")
-	self.par = 4
 	self.ballStartPosition = self.ball:GetPosition()
 	self.ballPicked = false
 	self.canHitBall = true
-	self.camCloseDist = 200
-	self.camOffsetYDist = 75
-	self.camOffsetYDistFar = 600
-	self.camFarDist = 1000
-	self.resetBallTime = .5
-	self.resetBallTimeLeft = .5
+	self.resetBallTimeLeft = self.resetBallTime
 	self.toggleTrail = "start"
 	
 	-- setup for font size based on screen width
@@ -257,4 +260,5 @@ function reshootHole(self)
 	self.ballPhysics:SetAngularVelocity(Vision.hkvVec3(0,0,0))
 	self.ballPhysics:SetPosition(Vision.hkvVec3(self.BallLastHitPos.x,self.BallLastHitPos.y,self.BallLastHitPos.z +1))
 end
+
 

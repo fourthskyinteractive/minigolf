@@ -1,1 +1,1 @@
-vLux.exe "" -project "C:\Projects\miniGolf\Assets" -tempfolder "C:\Projects\miniGolf\Assets\Scenes\Proxy_HoleAdvanced.scene.Layers" -out "Scenes\Proxy_HoleAdvanced" -quiet -minimized -config "C:\Projects\miniGolf\Assets\Scenes\Proxy_HoleAdvanced.scene.Layers\lighting.cfg"
+vLux.exe "" -project "C:\Projects\minigolf\Assets" -tempfolder "C:\Projects\minigolf\Assets\Scenes\Proxy_HoleAdvanced.scene.Layers" -out "Scenes\Proxy_HoleAdvanced" -quiet -minimized -config "C:\Projects\minigolf\Assets\Scenes\Proxy_HoleAdvanced.scene.Layers\lighting.cfg"

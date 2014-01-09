@@ -1267,9 +1267,9 @@
                 ]
             },
             "File": {
-                "Hash": 2521951337,
-                "TimeStamp": 1389035603024672500,
-                "LastEditTime": 1389043764345723000
+                "Hash": 2319120268,
+                "TimeStamp": 1389140276941373300,
+                "LastEditTime": 1389140277992478400
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -1294,9 +1294,9 @@
                 ]
             },
             "File": {
-                "Hash": 731976075,
-                "TimeStamp": 1389035603032673300,
-                "LastEditTime": 1389043764454733900
+                "Hash": 3093167061,
+                "TimeStamp": 1389140283555034600,
+                "LastEditTime": 1389140284598138900
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -1321,9 +1321,9 @@
                 ]
             },
             "File": {
-                "Hash": 1157494264,
-                "TimeStamp": 1389035603057675800,
-                "LastEditTime": 1389043764564744900
+                "Hash": 3897691228,
+                "TimeStamp": 1389140289342613300,
+                "LastEditTime": 1389140290425721600
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -1348,9 +1348,9 @@
                 ]
             },
             "File": {
-                "Hash": 1934094536,
-                "TimeStamp": 1389035603069677000,
-                "LastEditTime": 1389043764662754700
+                "Hash": 2151197905,
+                "TimeStamp": 1389140294661145100,
+                "LastEditTime": 1389140295713250300
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -1375,9 +1375,9 @@
                 ]
             },
             "File": {
-                "Hash": 1910671552,
-                "TimeStamp": 1389035603077677800,
-                "LastEditTime": 1389043764762764700
+                "Hash": 478128553,
+                "TimeStamp": 1389140301201799100,
+                "LastEditTime": 1389140302258904800
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -1402,9 +1402,9 @@
                 ]
             },
             "File": {
-                "Hash": 1745484437,
-                "TimeStamp": 1389035603088678900,
-                "LastEditTime": 1389043764864774900
+                "Hash": 1284346311,
+                "TimeStamp": 1389140305823261200,
+                "LastEditTime": 1389140306906369500
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -1429,9 +1429,9 @@
                 ]
             },
             "File": {
-                "Hash": 2066692781,
-                "TimeStamp": 1389035603096679700,
-                "LastEditTime": 1389043764960784500
+                "Hash": 3924677779,
+                "TimeStamp": 1389140310172696100,
+                "LastEditTime": 1389140311254804300
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -1456,9 +1456,9 @@
                 ]
             },
             "File": {
-                "Hash": 1068311917,
-                "TimeStamp": 1389035603105680600,
-                "LastEditTime": 1389043765058794300
+                "Hash": 1484619163,
+                "TimeStamp": 1389140312192898100,
+                "LastEditTime": 1389140312273906200
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -1483,9 +1483,9 @@
                 ]
             },
             "File": {
-                "Hash": 1791618724,
-                "TimeStamp": 1389035603113681400,
-                "LastEditTime": 1389043765161804600
+                "Hash": 2329019331,
+                "TimeStamp": 1389140317681446900,
+                "LastEditTime": 1389140318766555400
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -1510,9 +1510,9 @@
                 ]
             },
             "File": {
-                "Hash": 1487399158,
-                "TimeStamp": 1389035603122682300,
-                "LastEditTime": 1389043765264814900
+                "Hash": 1537691196,
+                "TimeStamp": 1389140319085587300,
+                "LastEditTime": 1389140319807659500
             },
             "Texture": {
                 "FileFormat": "DDS",
@@ -2163,14 +2163,14 @@
                 ]
             },
             "File": {
-                "Hash": 1763850688,
-                "TimeStamp": 1389035603267696800,
-                "LastEditTime": 1389043765764864900
+                "Hash": 837472932,
+                "TimeStamp": 1389123692714116400,
+                "LastEditTime": 1389123693736218600
             },
             "Texture": {
                 "FileFormat": "TGA",
-                "Width": 64,
-                "Height": 64,
+                "Width": 256,
+                "Height": 256,
                 "HasAlpha": false,
                 "sRGB": false
             },
@@ -2190,14 +2190,14 @@
                 ]
             },
             "File": {
-                "Hash": 3179193738,
-                "TimeStamp": 1389035603268696900,
-                "LastEditTime": 1389043765779866400
+                "Hash": 795864466,
+                "TimeStamp": 1389123731130957700,
+                "LastEditTime": 1389123732152059800
             },
             "Texture": {
                 "FileFormat": "TGA",
-                "Width": 64,
-                "Height": 64,
+                "Width": 256,
+                "Height": 256,
                 "HasAlpha": false,
                 "sRGB": false
             },
@@ -2217,14 +2217,14 @@
                 ]
             },
             "File": {
-                "Hash": 1590857925,
-                "TimeStamp": 1389035603268696900,
-                "LastEditTime": 1389043765794867900
+                "Hash": 2630038559,
+                "TimeStamp": 1389123660193864700,
+                "LastEditTime": 1389123661207966100
             },
             "Texture": {
                 "FileFormat": "TGA",
-                "Width": 64,
-                "Height": 64,
+                "Width": 256,
+                "Height": 256,
                 "HasAlpha": false,
                 "sRGB": false
             },
